@@ -54,4 +54,5 @@ p, #footer {
     position: fixed;
     bottom: 0px;
     right: 0px;
+    margin: 0;
 }
